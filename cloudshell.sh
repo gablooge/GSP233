@@ -4,4 +4,4 @@
 cd tf-gke-k8s-service-lb
 
 terraform init
-terraform apply
+terraform apply -auto-approve
